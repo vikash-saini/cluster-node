@@ -1,0 +1,2 @@
+loadtest -n 1000 -c 100 http://localhost:4000/api/users
+loadtest -n 1000 -c 100 http://localhost:5000/api/users
